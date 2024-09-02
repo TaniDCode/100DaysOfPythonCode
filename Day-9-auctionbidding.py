@@ -1,3 +1,14 @@
+logo='''
+88,dPYba,,adPYba,   ,adPPYba,  8b,dPPYba,   ,adPPYba, 8b       d8  
+88P'   "88"    "8a a8"     "8a 88P'   `"8a a8P_____88 `8b     d8'  
+88      88      88 8b       d8 88       88 8PP"""""""  `8b   d8'   
+88      88      88 "8a,   ,a8" 88       88 "8b,   ,aa   `8b,d8'    
+88      88      88  `"YbbdP"'  88       88  `"Ybbd8"'     Y88'     
+                                                          d8'      
+                                                         d8'       
+'''
+print(logo)
+
 print("Welcome to the secret auction program.")
 
 bid={}
